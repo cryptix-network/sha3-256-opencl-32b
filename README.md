@@ -19,3 +19,5 @@ Build:
 Notes:
 - File is self-contained and includes the required Keccak permutation code.
 - The implementation is specialized for fixed input size (32 bytes), not arbitrary message length streaming.
+
+// @Cryptis - Cryptix Network
